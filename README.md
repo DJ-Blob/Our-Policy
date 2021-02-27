@@ -1,4 +1,4 @@
-## Privacy-Policy
+## Our-Policy
 
 DJ Blob is a simple and free music bot that doesn't need any kind of setup.
 
